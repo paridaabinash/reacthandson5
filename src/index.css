@@ -1,0 +1,44 @@
+*{
+    background-color: white;
+  }
+  .upper {
+    text-align:center;
+    background-color: white;
+  }
+  ul {
+    list-style-type:none;
+    font-size:22px;
+    color: brown;
+  }
+  p{
+    font-size:22px;
+    color: brown;
+  }
+  span {
+    text-decoration: underline;
+  
+  }
+  .lower {
+    text-align:center;
+    background-color: white;
+    margin-top:50px;
+  }
+  button{
+    color: black;
+    background-color: greenyellow;
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .hovered{
+    background-color: greenyellow;
+    border: 1px solid black;
+    width: fit-content;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+  
